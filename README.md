@@ -1,4 +1,6 @@
-([https://www.canva.com/design/DAF4HvLY9JA/K8aHi2nvTIpnIv4OH2NxiA/view?utm_content=DAF4HvLY9JA&utm_campaign=designshare&utm_medium=link&utm_source=editorhttps://www.canva.com/design/DAF4HvLY9JA/view](https://www.canva.com/design/DAF4HvLY9JA/view))
+
+![Sangeetha_Linkedin_Banner](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/da05606b-cf7c-415b-b220-8fd526b5ed48)
+
 <h1 align="center">Hi 👋, I'm Sangeetha Nair</h1>
 <h3 align="center">A passionate Mulesoft Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
