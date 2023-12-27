@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sangeetha-m-nair" target="blank">![Linkedin](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/79c0cafb-4aed-4029-93f6-b8505fb6cf4e)
+<a href="https://www.linkedin.com/in/sangeetha-m-nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeetha-m-nair" height="30" width="40" />
 </a>
 </p>
 
