@@ -20,11 +20,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![mulesoft_logo_icon_170933](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/3c5e9dd8-23c1-4e53-bbf5-a40e6990bb26)
-![vs code](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/b45275d1-0fc4-442c-8c3b-7f0d43e17a56)
-![git](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/4750de89-4090-4f3e-8f6f-aa5ce663314a)
-![html](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/1213753f-13c7-4648-ae16-35300449bacf)
-![css](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/0c61a8da-9b20-4429-819c-3c7e3aa73843)
-![JS](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/a03042e6-b334-4eda-bda8-d72ec43c3cf1)
-![python](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/bdd685c3-4284-4aed-9263-c098d2c8ec15)
-![github](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/343d4162-ef0c-4f5b-af6f-56ccacd85983)
+https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/3c5e9dd8-23c1-4e53-bbf5-a40e6990bb26
+https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/b45275d1-0fc4-442c-8c3b-7f0d43e17a56
+https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/4750de89-4090-4f3e-8f6f-aa5ce663314a
+https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/1213753f-13c7-4648-ae16-35300449bacf
+https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/0c61a8da-9b20-4429-819c-3c7e3aa73843
+https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/a03042e6-b334-4eda-bda8-d72ec43c3cf1
+https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/bdd685c3-4284-4aed-9263-c098d2c8ec15
+https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/343d4162-ef0c-4f5b-af6f-56ccacd85983
