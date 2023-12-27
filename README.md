@@ -1,7 +1,7 @@
 
 ![Sangeetha_Linkedin_Banner](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/da05606b-cf7c-415b-b220-8fd526b5ed48)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> , I'm Sangeetha Nair</h1>
+<h1 align="center">Hi (https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png) , I'm Sangeetha Nair</h1>
 <h3 align="center">A passionate Mulesoft Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
