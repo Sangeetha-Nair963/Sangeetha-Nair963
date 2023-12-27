@@ -5,7 +5,8 @@
 <h3 align="center">A passionate Mulesoft Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmeetkaur11994&label=Profile%20views&color=0e75b6&style=flat" alt="jasmeetkaur11994" /> </p>
+<p align="left"> ![249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d](https://github.com/Sangeetha-Nair963/Sangeetha-Nair963/assets/114836139/f9f899c9-54d2-43d7-a70e-964bdbfb0036)
+</p>
 
 - 🔭 I’m currently working on **Mulesoft POCs**
 
