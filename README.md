@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sangeetha-Nair963&label=Profile%20views&color=0e75b6&style=flat" alt="Sangeetha-Nair963" /> </p>
 
-- 🔭 I’m currently working on **Mulesoft POCs**
+- 🔭 I’m currently working on **Mulesoft POCs** and enhancing my skills for Full stack developer role
 
 - 💬 Ask me about **SQL, Python, Tableau, Power BI, AI/ML, Java and Mulesoft**
 
